@@ -17,7 +17,6 @@ library(tidyverse)
 Using LANDFIRE’s BpS products, we explore two different ways to visualize past vs. current vegetation patterns. 
 
 * First we present **changes in broad ecosystem types** using an interactive comparison diagram. 
-
 * Second we compare **amounts of succession classes** (past and present) for the most prevalent ecosystems. 
 
 ## Comparing Broad Vegetation Trends
@@ -93,8 +92,8 @@ htmlwidgets::saveWidget(chord,
 
 ## Succession classes for most dominant BpSs
 
-* The Rocky Mountain Lodgepole Pine Forest shows the greatest differences between reference and current amounts of succession classes, with a substantial overrepresentation of succession class C on the landscape today.
-* Some BpSs have large underrepresentation of some succession classes on the landscape today.  For example succession class D is largely missing in the Southern Rocky Mountain Ponderosa Pine Woodland which is likely due to recent fire suppression.  
+* The Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Ponderosa Pine-Douglas-fir shows a substantial 'over-representation' of succession class D and a corresponding under-representation of class C  presumably due to altered disturbance regimes.
+* The Northern Rocky Mountain Subalpine Woodland and Parkland shows a substantial under-representation of class B, and a over-representation of class D. 
 
 
 ```{r scls chart, echo=FALSE, message=FALSE, warning=FALSE, fig.width=10, fig.height=9}
