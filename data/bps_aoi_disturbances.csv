@@ -1,0 +1,104 @@
+TransitionGroupID,Model_Code,annual_probability,BpS_Name,X,BLUE,ACRES,REL_PERCENT,annual_dist_acres
+All Fire,10560_10_19,0.0056376,Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland,1,0,1117373,42,6299.302025
+All Transitions,10560_10_19,0.0109278,Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland,1,0,1117373,42,12210.42867
+Competition or Maintenance,10560_10_19,0.0005292,Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland,1,0,1117373,42,591.3137916
+Insect or Disease,10560_10_19,0.0014876,Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland,1,0,1117373,42,1662.204075
+Non Fire Disturbances,10560_10_19,0.0052902,Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland,1,0,1117373,42,5911.126645
+Replacement Fire,10560_10_19,0.0056376,Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland,1,0,1117373,42,6299.302025
+Wind or Weather or Stress,10560_10_19,0.0032734,Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland,1,0,1117373,42,3657.608778
+All Fire,10460_10_19_20,0.0054302,Northern Rocky Mountain Subalpine Woodland and Parkland,2,0,454132,17.1,2466.027586
+All Transitions,10460_10_19_20,0.0282226,Northern Rocky Mountain Subalpine Woodland and Parkland,2,0,454132,17.1,12816.78578
+Alternative Succession,10460_10_19_20,0.0115656,Northern Rocky Mountain Subalpine Woodland and Parkland,2,0,454132,17.1,5252.309059
+Competition or Maintenance,10460_10_19_20,0.00214,Northern Rocky Mountain Subalpine Woodland and Parkland,2,0,454132,17.1,971.84248
+Insect or Disease,10460_10_19_20,0.0040756,Northern Rocky Mountain Subalpine Woodland and Parkland,2,0,454132,17.1,1850.860379
+Mixed Fire,10460_10_19_20,0.0029322,Northern Rocky Mountain Subalpine Woodland and Parkland,2,0,454132,17.1,1331.60585
+Non Fire Disturbances,10460_10_19_20,0.0112268,Northern Rocky Mountain Subalpine Woodland and Parkland,2,0,454132,17.1,5098.449138
+Non Replacement Fire,10460_10_19_20,0.0029322,Northern Rocky Mountain Subalpine Woodland and Parkland,2,0,454132,17.1,1331.60585
+Replacement Fire,10460_10_19_20,0.002498,Northern Rocky Mountain Subalpine Woodland and Parkland,2,0,454132,17.1,1134.421736
+Wind or Weather or Stress,10460_10_19_20,0.0050112,Northern Rocky Mountain Subalpine Woodland and Parkland,2,0,454132,17.1,2275.746278
+All Fire,10452_10_19,0.0272592,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Larch,3,0.709803922,199063,7.5,5426.29813
+All Transitions,10452_10_19,0.037234,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Larch,3,0.709803922,199063,7.5,7411.911742
+Alternative Succession,10452_10_19,0.0008622,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Larch,3,0.709803922,199063,7.5,171.6321186
+Competition or Maintenance,10452_10_19,0.0002938,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Larch,3,0.709803922,199063,7.5,58.4847094
+Insect or Disease,10452_10_19,0.0070298,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Larch,3,0.709803922,199063,7.5,1399.373077
+Mixed Fire,10452_10_19,0.0147454,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Larch,3,0.709803922,199063,7.5,2935.26356
+Non Fire Disturbances,10452_10_19,0.0091126,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Larch,3,0.709803922,199063,7.5,1813.981494
+Non Replacement Fire,10452_10_19,0.022178,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Larch,3,0.709803922,199063,7.5,4414.819214
+Replacement Fire,10452_10_19,0.0050812,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Larch,3,0.709803922,199063,7.5,1011.478916
+Surface Fire,10452_10_19,0.0074326,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Larch,3,0.709803922,199063,7.5,1479.555654
+Wind or Weather or Stress,10452_10_19,0.001789,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Larch,3,0.709803922,199063,7.5,356.123707
+All Fire,10451_10_19,0.0518362,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Ponderosa Pine-Douglas-fir,4,1,161357,6.1,8364.133723
+All Transitions,10451_10_19,0.0739156,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Ponderosa Pine-Douglas-fir,4,1,161357,6.1,11926.79947
+Alternative Succession,10451_10_19,0.0102102,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Ponderosa Pine-Douglas-fir,4,1,161357,6.1,1647.487241
+Insect or Disease,10451_10_19,0.0111856,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Ponderosa Pine-Douglas-fir,4,1,161357,6.1,1804.874859
+Mixed Fire,10451_10_19,0.019558,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Ponderosa Pine-Douglas-fir,4,1,161357,6.1,3155.820206
+Non Fire Disturbances,10451_10_19,0.0118692,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Ponderosa Pine-Douglas-fir,4,1,161357,6.1,1915.178504
+Non Replacement Fire,10451_10_19,0.0450204,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Ponderosa Pine-Douglas-fir,4,1,161357,6.1,7264.356683
+Replacement Fire,10451_10_19,0.0068158,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Ponderosa Pine-Douglas-fir,4,1,161357,6.1,1099.777041
+Surface Fire,10451_10_19,0.0254624,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Ponderosa Pine-Douglas-fir,4,1,161357,6.1,4108.536477
+Wind or Weather or Stress,10451_10_19,0.0006836,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Ponderosa Pine-Douglas-fir,4,1,161357,6.1,110.3036452
+All Fire,11590_10_19,0.0198262,Rocky Mountain Montane Riparian Systems,5,0.364705882,126669,4.8,2511.364928
+All Transitions,11590_10_19,0.2397772,Rocky Mountain Montane Riparian Systems,5,0.364705882,126669,4.8,30372.33815
+Mixed Fire,11590_10_19,0.009913,Rocky Mountain Montane Riparian Systems,5,0.364705882,126669,4.8,1255.669797
+Non Fire Disturbances,11590_10_19,0.219951,Rocky Mountain Montane Riparian Systems,5,0.364705882,126669,4.8,27860.97322
+Non Replacement Fire,11590_10_19,0.009913,Rocky Mountain Montane Riparian Systems,5,0.364705882,126669,4.8,1255.669797
+Optional 1,11590_10_19,0.0821816,Rocky Mountain Montane Riparian Systems,5,0.364705882,126669,4.8,10409.86109
+Optional Types,11590_10_19,0.0821816,Rocky Mountain Montane Riparian Systems,5,0.364705882,126669,4.8,10409.86109
+Replacement Fire,11590_10_19,0.0099132,Rocky Mountain Montane Riparian Systems,5,0.364705882,126669,4.8,1255.695131
+Wind or Weather or Stress,11590_10_19,0.1377694,Rocky Mountain Montane Riparian Systems,5,0.364705882,126669,4.8,17451.11213
+All Fire,10452_10_19,0.0272592,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Larch,6,0.709803922,122449,4.6,3337.861781
+All Transitions,10452_10_19,0.037234,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Larch,6,0.709803922,122449,4.6,4559.266066
+Alternative Succession,10452_10_19,0.0008622,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Larch,6,0.709803922,122449,4.6,105.5755278
+Competition or Maintenance,10452_10_19,0.0002938,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Larch,6,0.709803922,122449,4.6,35.9755162
+Insect or Disease,10452_10_19,0.0070298,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Larch,6,0.709803922,122449,4.6,860.7919802
+Mixed Fire,10452_10_19,0.0147454,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Larch,6,0.709803922,122449,4.6,1805.559485
+Non Fire Disturbances,10452_10_19,0.0091126,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Larch,6,0.709803922,122449,4.6,1115.828757
+Non Replacement Fire,10452_10_19,0.022178,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Larch,6,0.709803922,122449,4.6,2715.673922
+Replacement Fire,10452_10_19,0.0050812,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Larch,6,0.709803922,122449,4.6,622.1878588
+Surface Fire,10452_10_19,0.0074326,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Larch,6,0.709803922,122449,4.6,910.1144374
+Wind or Weather or Stress,10452_10_19,0.001789,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Larch,6,0.709803922,122449,4.6,219.061261
+All Fire,10560_10_19,0.0056376,Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland,7,0,100933,3.8,569.0198808
+All Transitions,10560_10_19,0.0109278,Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland,7,0,100933,3.8,1102.975637
+Competition or Maintenance,10560_10_19,0.0005292,Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland,7,0,100933,3.8,53.4137436
+Insect or Disease,10560_10_19,0.0014876,Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland,7,0,100933,3.8,150.1479308
+Non Fire Disturbances,10560_10_19,0.0052902,Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland,7,0,100933,3.8,533.9557566
+Replacement Fire,10560_10_19,0.0056376,Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland,7,0,100933,3.8,569.0198808
+Wind or Weather or Stress,10560_10_19,0.0032734,Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland,7,0,100933,3.8,330.3940822
+All Fire,10550_10_19,0.0073282,Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland,8,0.745098039,63130,2.4,462.629266
+All Transitions,10550_10_19,0.013081,Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland,8,0.745098039,63130,2.4,825.80353
+Alternative Succession,10550_10_19,0.0008024,Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland,8,0.745098039,63130,2.4,50.655512
+Competition or Maintenance,10550_10_19,0.0008498,Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland,8,0.745098039,63130,2.4,53.647874
+Insect or Disease,10550_10_19,0.002614,Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland,8,0.745098039,63130,2.4,165.02182
+Mixed Fire,10550_10_19,0.0023984,Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland,8,0.745098039,63130,2.4,151.410992
+Non Fire Disturbances,10550_10_19,0.0049504,Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland,8,0.745098039,63130,2.4,312.518752
+Non Replacement Fire,10550_10_19,0.0023984,Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland,8,0.745098039,63130,2.4,151.410992
+Replacement Fire,10550_10_19,0.0049298,Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland,8,0.745098039,63130,2.4,311.218274
+Wind or Weather or Stress,10550_10_19,0.0014866,Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland,8,0.745098039,63130,2.4,93.849058
+All Fire,10470_10_19,0.0124894,Northern Rocky Mountain Mesic Montane Mixed Conifer Forest,11,0.898039216,48066,1.8,600.3155004
+All Transitions,10470_10_19,0.0150894,Northern Rocky Mountain Mesic Montane Mixed Conifer Forest,11,0.898039216,48066,1.8,725.2871004
+Insect or Disease,10470_10_19,0.001835,Northern Rocky Mountain Mesic Montane Mixed Conifer Forest,11,0.898039216,48066,1.8,88.20111
+Mixed Fire,10470_10_19,0.0071648,Northern Rocky Mountain Mesic Montane Mixed Conifer Forest,11,0.898039216,48066,1.8,344.3832768
+Non Fire Disturbances,10470_10_19,0.0026,Northern Rocky Mountain Mesic Montane Mixed Conifer Forest,11,0.898039216,48066,1.8,124.9716
+Non Replacement Fire,10470_10_19,0.0071648,Northern Rocky Mountain Mesic Montane Mixed Conifer Forest,11,0.898039216,48066,1.8,344.3832768
+Replacement Fire,10470_10_19,0.0053246,Northern Rocky Mountain Mesic Montane Mixed Conifer Forest,11,0.898039216,48066,1.8,255.9322236
+Wind or Weather or Stress,10470_10_19,0.000765,Northern Rocky Mountain Mesic Montane Mixed Conifer Forest,11,0.898039216,48066,1.8,36.77049
+All Fire,10451_10_19,0.0518362,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Ponderosa Pine-Douglas-fir,12,1,27864,1,1444.363877
+All Fire,11660_9_10_19,0.0364006,Middle Rocky Mountain Montane Douglas-fir Forest and Woodland,13,0,26314,1,957.8453884
+All Transitions,10451_10_19,0.0739156,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Ponderosa Pine-Douglas-fir,12,1,27864,1,2059.584278
+All Transitions,11660_9_10_19,0.0584534,Middle Rocky Mountain Montane Douglas-fir Forest and Woodland,13,0,26314,1,1538.142768
+Alternative Succession,10451_10_19,0.0102102,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Ponderosa Pine-Douglas-fir,12,1,27864,1,284.4970128
+Alternative Succession,11660_9_10_19,0.0109008,Middle Rocky Mountain Montane Douglas-fir Forest and Woodland,13,0,26314,1,286.8436512
+Insect or Disease,10451_10_19,0.0111856,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Ponderosa Pine-Douglas-fir,12,1,27864,1,311.6755584
+Insect or Disease,11660_9_10_19,0.0021954,Middle Rocky Mountain Montane Douglas-fir Forest and Woodland,13,0,26314,1,57.7697556
+Mixed Fire,10451_10_19,0.019558,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Ponderosa Pine-Douglas-fir,12,1,27864,1,544.964112
+Mixed Fire,11660_9_10_19,0.018279,Middle Rocky Mountain Montane Douglas-fir Forest and Woodland,13,0,26314,1,480.993606
+Non Fire Disturbances,10451_10_19,0.0118692,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Ponderosa Pine-Douglas-fir,12,1,27864,1,330.7233888
+Non Fire Disturbances,11660_9_10_19,0.011152,Middle Rocky Mountain Montane Douglas-fir Forest and Woodland,13,0,26314,1,293.453728
+Non Replacement Fire,10451_10_19,0.0450204,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Ponderosa Pine-Douglas-fir,12,1,27864,1,1254.448426
+Non Replacement Fire,11660_9_10_19,0.0275772,Middle Rocky Mountain Montane Douglas-fir Forest and Woodland,13,0,26314,1,725.6664408
+Replacement Fire,10451_10_19,0.0068158,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Ponderosa Pine-Douglas-fir,12,1,27864,1,189.9154512
+Replacement Fire,11660_9_10_19,0.0088234,Middle Rocky Mountain Montane Douglas-fir Forest and Woodland,13,0,26314,1,232.1789476
+Surface Fire,10451_10_19,0.0254624,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Ponderosa Pine-Douglas-fir,12,1,27864,1,709.4843136
+Surface Fire,11660_9_10_19,0.0092982,Middle Rocky Mountain Montane Douglas-fir Forest and Woodland,13,0,26314,1,244.6728348
+Wind or Weather or Stress,10451_10_19,0.0006836,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Ponderosa Pine-Douglas-fir,12,1,27864,1,19.0478304
+Wind or Weather or Stress,11660_9_10_19,0.0089566,Middle Rocky Mountain Montane Douglas-fir Forest and Woodland,13,0,26314,1,235.6839724

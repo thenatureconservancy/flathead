@@ -1,0 +1,431 @@
+model_label,Model_Code,refLabel,refPercent,BpS_Name,Var1,Var2,Freq,BPS_CODE,ZONE,total_count,currentPercent
+10090_19_A,10090_19,A,21,Northwestern Great Plains Aspen Forest and Parkland,453,1,19,10090,19,66,28
+10090_19_B,10090_19,B,68,Northwestern Great Plains Aspen Forest and Parkland,453,2,1,10090,19,66,1
+10090_19_C,10090_19,C,11,Northwestern Great Plains Aspen Forest and Parkland,453,3,34,10090,19,66,51
+10090_19_D,10090_19,D,NA,Northwestern Great Plains Aspen Forest and Parkland,NA,NA,NA,NA,NA,NA,NA
+10090_19_E,10090_19,E,NA,Northwestern Great Plains Aspen Forest and Parkland,NA,NA,NA,NA,NA,NA,NA
+10090_19_Agriculture,10090_19,Agriculture,0,Northwestern Great Plains Aspen Forest and Parkland,453,180,7,10090,19,66,10
+10090_19_Developed,10090_19,Developed,0,Northwestern Great Plains Aspen Forest and Parkland,NA,NA,NA,NA,NA,NA,NA
+10090_19_Water,10090_19,Water,0,Northwestern Great Plains Aspen Forest and Parkland,NA,NA,NA,NA,NA,NA,NA
+10090_19_UN,10090_19,UN,0,Northwestern Great Plains Aspen Forest and Parkland,NA,NA,NA,NA,NA,NA,NA
+10090_19_UE,10090_19,UE,0,Northwestern Great Plains Aspen Forest and Parkland,453,7,2,10090,19,66,3
+10110_6_10_12_17_18_19_A,10110_6_10_12_17_18_19,A,14,Rocky Mountain Aspen Forest and Woodland,416,1,974,10110,10,3377,28
+10110_6_10_12_17_18_19_A,10110_6_10_12_17_18_19,A,14,Rocky Mountain Aspen Forest and Woodland,454,1,1814,10110,19,10103,17
+10110_6_10_12_17_18_19_B,10110_6_10_12_17_18_19,B,40,Rocky Mountain Aspen Forest and Woodland,416,2,7,10110,10,3377,0
+10110_6_10_12_17_18_19_B,10110_6_10_12_17_18_19,B,40,Rocky Mountain Aspen Forest and Woodland,454,2,10,10110,19,10103,0
+10110_6_10_12_17_18_19_C,10110_6_10_12_17_18_19,C,45,Rocky Mountain Aspen Forest and Woodland,416,3,1306,10110,10,3377,38
+10110_6_10_12_17_18_19_C,10110_6_10_12_17_18_19,C,45,Rocky Mountain Aspen Forest and Woodland,454,3,4822,10110,19,10103,47
+10110_6_10_12_17_18_19_D,10110_6_10_12_17_18_19,D,1,Rocky Mountain Aspen Forest and Woodland,416,4,1090,10110,10,3377,32
+10110_6_10_12_17_18_19_D,10110_6_10_12_17_18_19,D,1,Rocky Mountain Aspen Forest and Woodland,454,4,3372,10110,19,10103,33
+10110_6_10_12_17_18_19_E,10110_6_10_12_17_18_19,E,NA,Rocky Mountain Aspen Forest and Woodland,NA,NA,NA,NA,NA,NA,NA
+10110_6_10_12_17_18_19_Agriculture,10110_6_10_12_17_18_19,Agriculture,0,Rocky Mountain Aspen Forest and Woodland,454,180,9,10110,19,10103,0
+10110_6_10_12_17_18_19_Developed,10110_6_10_12_17_18_19,Developed,0,Rocky Mountain Aspen Forest and Woodland,454,120,3,10110,19,10103,0
+10110_6_10_12_17_18_19_Water,10110_6_10_12_17_18_19,Water,0,Rocky Mountain Aspen Forest and Woodland,NA,NA,NA,NA,NA,NA,NA
+10110_6_10_12_17_18_19_UN,10110_6_10_12_17_18_19,UN,0,Rocky Mountain Aspen Forest and Woodland,NA,NA,NA,NA,NA,NA,NA
+10110_6_10_12_17_18_19_UE,10110_6_10_12_17_18_19,UE,0,Rocky Mountain Aspen Forest and Woodland,454,7,45,10110,19,10103,0
+10451_10_19_A,10451_10_19,A,16,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Ponderosa Pine-Douglas-fir,417,1,10521,10451,10,125289,8
+10451_10_19_A,10451_10_19,A,16,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Ponderosa Pine-Douglas-fir,456,1,107747,10451,19,725543,14
+10451_10_19_B,10451_10_19,B,14,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Ponderosa Pine-Douglas-fir,417,2,18301,10451,10,125289,14
+10451_10_19_B,10451_10_19,B,14,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Ponderosa Pine-Douglas-fir,456,2,85619,10451,19,725543,11
+10451_10_19_C,10451_10_19,C,38,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Ponderosa Pine-Douglas-fir,417,3,95026,10451,10,125289,75
+10451_10_19_C,10451_10_19,C,38,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Ponderosa Pine-Douglas-fir,456,3,495896,10451,19,725543,68
+10451_10_19_D,10451_10_19,D,27,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Ponderosa Pine-Douglas-fir,417,4,306,10451,10,125289,0
+10451_10_19_D,10451_10_19,D,27,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Ponderosa Pine-Douglas-fir,456,4,8969,10451,19,725543,1
+10451_10_19_E,10451_10_19,E,5,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Ponderosa Pine-Douglas-fir,417,5,428,10451,10,125289,0
+10451_10_19_E,10451_10_19,E,5,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Ponderosa Pine-Douglas-fir,456,5,5371,10451,19,725543,0
+10451_10_19_Agriculture,10451_10_19,Agriculture,0,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Ponderosa Pine-Douglas-fir,417,180,31,10451,10,125289,0
+10451_10_19_Agriculture,10451_10_19,Agriculture,0,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Ponderosa Pine-Douglas-fir,456,180,2439,10451,19,725543,0
+10451_10_19_Developed,10451_10_19,Developed,0,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Ponderosa Pine-Douglas-fir,417,120,323,10451,10,125289,0
+10451_10_19_Developed,10451_10_19,Developed,0,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Ponderosa Pine-Douglas-fir,456,120,5077,10451,19,725543,0
+10451_10_19_Water,10451_10_19,Water,0,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Ponderosa Pine-Douglas-fir,NA,NA,NA,NA,NA,NA,NA
+10451_10_19_UN,10451_10_19,UN,0,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Ponderosa Pine-Douglas-fir,417,6,33,10451,10,125289,0
+10451_10_19_UN,10451_10_19,UN,0,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Ponderosa Pine-Douglas-fir,456,6,1501,10451,19,725543,0
+10451_10_19_UE,10451_10_19,UE,0,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Ponderosa Pine-Douglas-fir,417,7,244,10451,10,125289,0
+10451_10_19_UE,10451_10_19,UE,0,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Ponderosa Pine-Douglas-fir,456,7,10636,10451,19,725543,1
+10452_10_19_A,10452_10_19,A,9,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Larch,418,1,46775,10452,10,550592,8
+10452_10_19_A,10452_10_19,A,9,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Larch,457,1,100161,10452,19,895090,11
+10452_10_19_B,10452_10_19,B,14,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Larch,418,2,337332,10452,10,550592,61
+10452_10_19_B,10452_10_19,B,14,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Larch,457,2,546004,10452,19,895090,60
+10452_10_19_C,10452_10_19,C,24,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Larch,418,3,162266,10452,10,550592,29
+10452_10_19_C,10452_10_19,C,24,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Larch,457,3,219949,10452,19,895090,24
+10452_10_19_D,10452_10_19,D,29,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Larch,418,4,25,10452,10,550592,0
+10452_10_19_D,10452_10_19,D,29,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Larch,457,4,179,10452,19,895090,0
+10452_10_19_E,10452_10_19,E,24,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Larch,418,5,2417,10452,10,550592,0
+10452_10_19_E,10452_10_19,E,24,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Larch,457,5,12141,10452,19,895090,1
+10452_10_19_Agriculture,10452_10_19,Agriculture,0,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Larch,418,180,276,10452,10,550592,0
+10452_10_19_Agriculture,10452_10_19,Agriculture,0,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Larch,457,180,2330,10452,19,895090,0
+10452_10_19_Developed,10452_10_19,Developed,0,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Larch,418,120,916,10452,10,550592,0
+10452_10_19_Developed,10452_10_19,Developed,0,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Larch,457,120,6142,10452,19,895090,0
+10452_10_19_Water,10452_10_19,Water,0,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Larch,NA,NA,NA,NA,NA,NA,NA
+10452_10_19_UN,10452_10_19,UN,0,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Larch,NA,NA,NA,NA,NA,NA,NA
+10452_10_19_UE,10452_10_19,UE,0,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Larch,418,7,253,10452,10,550592,0
+10452_10_19_UE,10452_10_19,UE,0,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Larch,457,7,6708,10452,19,895090,0
+10453_10_19_A,10453_10_19,A,14,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Grand Fir,419,1,1771,10453,10,12494,14
+10453_10_19_A,10453_10_19,A,14,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Grand Fir,458,1,4380,10453,19,91891,4
+10453_10_19_B,10453_10_19,B,17,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Grand Fir,419,2,8,10453,10,12494,0
+10453_10_19_B,10453_10_19,B,17,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Grand Fir,458,2,169,10453,19,91891,0
+10453_10_19_C,10453_10_19,C,32,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Grand Fir,419,3,113,10453,10,12494,0
+10453_10_19_C,10453_10_19,C,32,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Grand Fir,458,3,869,10453,19,91891,0
+10453_10_19_D,10453_10_19,D,17,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Grand Fir,419,4,4782,10453,10,12494,38
+10453_10_19_D,10453_10_19,D,17,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Grand Fir,458,4,19827,10453,19,91891,21
+10453_10_19_E,10453_10_19,E,20,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Grand Fir,419,5,5678,10453,10,12494,45
+10453_10_19_E,10453_10_19,E,20,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Grand Fir,458,5,62929,10453,19,91891,68
+10453_10_19_Agriculture,10453_10_19,Agriculture,0,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Grand Fir,419,180,34,10453,10,12494,0
+10453_10_19_Agriculture,10453_10_19,Agriculture,0,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Grand Fir,458,180,621,10453,19,91891,0
+10453_10_19_Developed,10453_10_19,Developed,0,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Grand Fir,419,120,56,10453,10,12494,0
+10453_10_19_Developed,10453_10_19,Developed,0,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Grand Fir,458,120,2622,10453,19,91891,2
+10453_10_19_Water,10453_10_19,Water,0,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Grand Fir,NA,NA,NA,NA,NA,NA,NA
+10453_10_19_UN,10453_10_19,UN,0,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Grand Fir,NA,NA,NA,NA,NA,NA,NA
+10453_10_19_UE,10453_10_19,UE,0,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Grand Fir,419,7,4,10453,10,12494,0
+10453_10_19_UE,10453_10_19,UE,0,Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest - Grand Fir,458,7,411,10453,19,91891,0
+10460_10_19_20_A,10460_10_19_20,A,30,Northern Rocky Mountain Subalpine Woodland and Parkland,420,1,87,10460,10,271,32
+10460_10_19_20_A,10460_10_19_20,A,30,Northern Rocky Mountain Subalpine Woodland and Parkland,459,1,710889,10460,19,2042011,34
+10460_10_19_20_B,10460_10_19_20,B,31,Northern Rocky Mountain Subalpine Woodland and Parkland,420,2,2,10460,10,271,0
+10460_10_19_20_B,10460_10_19_20,B,31,Northern Rocky Mountain Subalpine Woodland and Parkland,459,2,12285,10460,19,2042011,0
+10460_10_19_20_C,10460_10_19_20,C,12,Northern Rocky Mountain Subalpine Woodland and Parkland,420,3,1,10460,10,271,0
+10460_10_19_20_C,10460_10_19_20,C,12,Northern Rocky Mountain Subalpine Woodland and Parkland,459,3,102416,10460,19,2042011,5
+10460_10_19_20_D,10460_10_19_20,D,5,Northern Rocky Mountain Subalpine Woodland and Parkland,420,4,60,10460,10,271,22
+10460_10_19_20_D,10460_10_19_20,D,5,Northern Rocky Mountain Subalpine Woodland and Parkland,459,4,536057,10460,19,2042011,26
+10460_10_19_20_E,10460_10_19_20,E,22,Northern Rocky Mountain Subalpine Woodland and Parkland,420,5,121,10460,10,271,44
+10460_10_19_20_E,10460_10_19_20,E,22,Northern Rocky Mountain Subalpine Woodland and Parkland,459,5,569339,10460,19,2042011,27
+10460_10_19_20_Agriculture,10460_10_19_20,Agriculture,0,Northern Rocky Mountain Subalpine Woodland and Parkland,459,180,60,10460,19,2042011,0
+10460_10_19_20_Developed,10460_10_19_20,Developed,0,Northern Rocky Mountain Subalpine Woodland and Parkland,459,120,153,10460,19,2042011,0
+10460_10_19_20_Water,10460_10_19_20,Water,0,Northern Rocky Mountain Subalpine Woodland and Parkland,NA,NA,NA,NA,NA,NA,NA
+10460_10_19_20_UN,10460_10_19_20,UN,0,Northern Rocky Mountain Subalpine Woodland and Parkland,NA,NA,NA,NA,NA,NA,NA
+10460_10_19_20_UE,10460_10_19_20,UE,0,Northern Rocky Mountain Subalpine Woodland and Parkland,459,7,4,10460,19,2042011,0
+10470_10_19_A,10470_10_19,A,12,Northern Rocky Mountain Mesic Montane Mixed Conifer Forest,421,1,302,10470,10,5459,5
+10470_10_19_A,10470_10_19,A,12,Northern Rocky Mountain Mesic Montane Mixed Conifer Forest,460,1,8876,10470,19,216128,4
+10470_10_19_B,10470_10_19,B,35,Northern Rocky Mountain Mesic Montane Mixed Conifer Forest,421,2,1094,10470,10,5459,20
+10470_10_19_B,10470_10_19,B,35,Northern Rocky Mountain Mesic Montane Mixed Conifer Forest,460,2,29709,10470,19,216128,13
+10470_10_19_C,10470_10_19,C,6,Northern Rocky Mountain Mesic Montane Mixed Conifer Forest,421,3,3982,10470,10,5459,72
+10470_10_19_C,10470_10_19,C,6,Northern Rocky Mountain Mesic Montane Mixed Conifer Forest,460,3,165568,10470,19,216128,76
+10470_10_19_D,10470_10_19,D,9,Northern Rocky Mountain Mesic Montane Mixed Conifer Forest,421,4,42,10470,10,5459,0
+10470_10_19_D,10470_10_19,D,9,Northern Rocky Mountain Mesic Montane Mixed Conifer Forest,460,4,1846,10470,19,216128,0
+10470_10_19_E,10470_10_19,E,38,Northern Rocky Mountain Mesic Montane Mixed Conifer Forest,421,5,28,10470,10,5459,0
+10470_10_19_E,10470_10_19,E,38,Northern Rocky Mountain Mesic Montane Mixed Conifer Forest,460,5,2088,10470,19,216128,0
+10470_10_19_Agriculture,10470_10_19,Agriculture,0,Northern Rocky Mountain Mesic Montane Mixed Conifer Forest,460,180,1459,10470,19,216128,0
+10470_10_19_Developed,10470_10_19,Developed,0,Northern Rocky Mountain Mesic Montane Mixed Conifer Forest,421,120,11,10470,10,5459,0
+10470_10_19_Developed,10470_10_19,Developed,0,Northern Rocky Mountain Mesic Montane Mixed Conifer Forest,460,120,5587,10470,19,216128,2
+10470_10_19_Water,10470_10_19,Water,0,Northern Rocky Mountain Mesic Montane Mixed Conifer Forest,NA,NA,NA,NA,NA,NA,NA
+10470_10_19_UN,10470_10_19,UN,0,Northern Rocky Mountain Mesic Montane Mixed Conifer Forest,NA,NA,NA,NA,NA,NA,NA
+10470_10_19_UE,10470_10_19,UE,0,Northern Rocky Mountain Mesic Montane Mixed Conifer Forest,460,7,818,10470,19,216128,0
+10472_10_19_A,10472_10_19,A,7,Northern Rocky Mountain Mesic Montane Mixed Conifer Forest - Cedar Groves,461,1,417,10472,19,7009,5
+10472_10_19_B,10472_10_19,B,41,Northern Rocky Mountain Mesic Montane Mixed Conifer Forest - Cedar Groves,461,2,4515,10472,19,7009,64
+10472_10_19_C,10472_10_19,C,7,Northern Rocky Mountain Mesic Montane Mixed Conifer Forest - Cedar Groves,461,3,1777,10472,19,7009,25
+10472_10_19_D,10472_10_19,D,4,Northern Rocky Mountain Mesic Montane Mixed Conifer Forest - Cedar Groves,461,4,3,10472,19,7009,0
+10472_10_19_E,10472_10_19,E,41,Northern Rocky Mountain Mesic Montane Mixed Conifer Forest - Cedar Groves,461,5,238,10472,19,7009,3
+10472_10_19_Agriculture,10472_10_19,Agriculture,0,Northern Rocky Mountain Mesic Montane Mixed Conifer Forest - Cedar Groves,461,180,3,10472,19,7009,0
+10472_10_19_Developed,10472_10_19,Developed,0,Northern Rocky Mountain Mesic Montane Mixed Conifer Forest - Cedar Groves,461,120,26,10472,19,7009,0
+10472_10_19_Water,10472_10_19,Water,0,Northern Rocky Mountain Mesic Montane Mixed Conifer Forest - Cedar Groves,NA,NA,NA,NA,NA,NA,NA
+10472_10_19_UN,10472_10_19,UN,0,Northern Rocky Mountain Mesic Montane Mixed Conifer Forest - Cedar Groves,NA,NA,NA,NA,NA,NA,NA
+10472_10_19_UE,10472_10_19,UE,0,Northern Rocky Mountain Mesic Montane Mixed Conifer Forest - Cedar Groves,461,7,21,10472,19,7009,0
+10490_19_20_21_23_28_29_A,10490_19_20_21_23_28_29,A,21,Rocky Mountain Foothill Limber Pine-Juniper Woodland,462,1,391,10490,19,737,53
+10490_19_20_21_23_28_29_B,10490_19_20_21_23_28_29,B,31,Rocky Mountain Foothill Limber Pine-Juniper Woodland,462,2,83,10490,19,737,11
+10490_19_20_21_23_28_29_C,10490_19_20_21_23_28_29,C,48,Rocky Mountain Foothill Limber Pine-Juniper Woodland,462,3,119,10490,19,737,16
+10490_19_20_21_23_28_29_D,10490_19_20_21_23_28_29,D,NA,Rocky Mountain Foothill Limber Pine-Juniper Woodland,NA,NA,NA,NA,NA,NA,NA
+10490_19_20_21_23_28_29_E,10490_19_20_21_23_28_29,E,NA,Rocky Mountain Foothill Limber Pine-Juniper Woodland,NA,NA,NA,NA,NA,NA,NA
+10490_19_20_21_23_28_29_Agriculture,10490_19_20_21_23_28_29,Agriculture,0,Rocky Mountain Foothill Limber Pine-Juniper Woodland,NA,NA,NA,NA,NA,NA,NA
+10490_19_20_21_23_28_29_Developed,10490_19_20_21_23_28_29,Developed,0,Rocky Mountain Foothill Limber Pine-Juniper Woodland,462,120,12,10490,19,737,1
+10490_19_20_21_23_28_29_Water,10490_19_20_21_23_28_29,Water,0,Rocky Mountain Foothill Limber Pine-Juniper Woodland,NA,NA,NA,NA,NA,NA,NA
+10490_19_20_21_23_28_29_UN,10490_19_20_21_23_28_29,UN,0,Rocky Mountain Foothill Limber Pine-Juniper Woodland,NA,NA,NA,NA,NA,NA,NA
+10490_19_20_21_23_28_29_UE,10490_19_20_21_23_28_29,UE,0,Rocky Mountain Foothill Limber Pine-Juniper Woodland,462,7,1,10490,19,737,0
+10530_10_19_A,10530_10_19,A,6,Northern Rocky Mountain Ponderosa Pine Woodland and Savanna,463,1,1005,10530,19,11332,8
+10530_10_19_B,10530_10_19,B,6,Northern Rocky Mountain Ponderosa Pine Woodland and Savanna,423,2,73,10530,10,99,73
+10530_10_19_B,10530_10_19,B,6,Northern Rocky Mountain Ponderosa Pine Woodland and Savanna,463,2,5720,10530,19,11332,50
+10530_10_19_C,10530_10_19,C,20,Northern Rocky Mountain Ponderosa Pine Woodland and Savanna,423,3,19,10530,10,99,19
+10530_10_19_C,10530_10_19,C,20,Northern Rocky Mountain Ponderosa Pine Woodland and Savanna,463,3,3232,10530,19,11332,28
+10530_10_19_D,10530_10_19,D,57,Northern Rocky Mountain Ponderosa Pine Woodland and Savanna,NA,NA,NA,NA,NA,NA,NA
+10530_10_19_E,10530_10_19,E,11,Northern Rocky Mountain Ponderosa Pine Woodland and Savanna,423,5,3,10530,10,99,3
+10530_10_19_E,10530_10_19,E,11,Northern Rocky Mountain Ponderosa Pine Woodland and Savanna,463,5,3,10530,19,11332,0
+10530_10_19_Agriculture,10530_10_19,Agriculture,0,Northern Rocky Mountain Ponderosa Pine Woodland and Savanna,463,180,383,10530,19,11332,3
+10530_10_19_Developed,10530_10_19,Developed,0,Northern Rocky Mountain Ponderosa Pine Woodland and Savanna,463,120,272,10530,19,11332,2
+10530_10_19_Water,10530_10_19,Water,0,Northern Rocky Mountain Ponderosa Pine Woodland and Savanna,NA,NA,NA,NA,NA,NA,NA
+10530_10_19_UN,10530_10_19,UN,0,Northern Rocky Mountain Ponderosa Pine Woodland and Savanna,423,6,4,10530,10,99,4
+10530_10_19_UN,10530_10_19,UN,0,Northern Rocky Mountain Ponderosa Pine Woodland and Savanna,463,6,628,10530,19,11332,5
+10530_10_19_UE,10530_10_19,UE,0,Northern Rocky Mountain Ponderosa Pine Woodland and Savanna,463,7,50,10530,19,11332,0
+10550_10_19_A,10550_10_19,A,16,Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland,424,1,11639,10550,10,75804,15
+10550_10_19_A,10550_10_19,A,16,Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland,464,1,30876,10550,19,283863,10
+10550_10_19_B,10550_10_19,B,44,Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland,424,2,6951,10550,10,75804,9
+10550_10_19_B,10550_10_19,B,44,Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland,464,2,65147,10550,19,283863,22
+10550_10_19_C,10550_10_19,C,15,Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland,424,3,5252,10550,10,75804,6
+10550_10_19_C,10550_10_19,C,15,Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland,464,3,19478,10550,19,283863,6
+10550_10_19_D,10550_10_19,D,5,Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland,424,4,15221,10550,10,75804,20
+10550_10_19_D,10550_10_19,D,5,Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland,464,4,42521,10550,19,283863,14
+10550_10_19_E,10550_10_19,E,20,Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland,424,5,36340,10550,10,75804,47
+10550_10_19_E,10550_10_19,E,20,Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland,464,5,114135,10550,19,283863,40
+10550_10_19_Agriculture,10550_10_19,Agriculture,0,Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland,424,180,112,10550,10,75804,0
+10550_10_19_Agriculture,10550_10_19,Agriculture,0,Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland,464,180,3211,10550,19,283863,1
+10550_10_19_Developed,10550_10_19,Developed,0,Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland,424,120,115,10550,10,75804,0
+10550_10_19_Developed,10550_10_19,Developed,0,Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland,464,120,5187,10550,19,283863,1
+10550_10_19_Water,10550_10_19,Water,0,Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland,NA,NA,NA,NA,NA,NA,NA
+10550_10_19_UN,10550_10_19,UN,0,Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland,NA,NA,NA,NA,NA,NA,NA
+10550_10_19_UE,10550_10_19,UE,0,Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland,424,7,37,10550,10,75804,0
+10550_10_19_UE,10550_10_19,UE,0,Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland,464,7,2224,10550,19,283863,0
+10560_10_19_A,10560_10_19,A,16,Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland,425,1,49305,10560,10,453845,10
+10560_10_19_A,10560_10_19,A,16,Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland,465,1,761015,10560,19,5024279,15
+10560_10_19_B,10560_10_19,B,26,Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland,425,2,432,10560,10,453845,0
+10560_10_19_B,10560_10_19,B,26,Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland,465,2,3978,10560,19,5024279,0
+10560_10_19_C,10560_10_19,C,20,Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland,425,3,102540,10560,10,453845,22
+10560_10_19_C,10560_10_19,C,20,Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland,465,3,1261270,10560,19,5024279,25
+10560_10_19_D,10560_10_19,D,38,Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland,425,4,301159,10560,10,453845,66
+10560_10_19_D,10560_10_19,D,38,Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland,465,4,2938584,10560,19,5024279,58
+10560_10_19_E,10560_10_19,E,NA,Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland,NA,NA,NA,NA,NA,NA,NA
+10560_10_19_Agriculture,10560_10_19,Agriculture,0,Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland,425,180,32,10560,10,453845,0
+10560_10_19_Agriculture,10560_10_19,Agriculture,0,Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland,465,180,3932,10560,19,5024279,0
+10560_10_19_Developed,10560_10_19,Developed,0,Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland,425,120,51,10560,10,453845,0
+10560_10_19_Developed,10560_10_19,Developed,0,Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland,465,120,12304,10560,19,5024279,0
+10560_10_19_Water,10560_10_19,Water,0,Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland,NA,NA,NA,NA,NA,NA,NA
+10560_10_19_UN,10560_10_19,UN,0,Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland,NA,NA,NA,NA,NA,NA,NA
+10560_10_19_UE,10560_10_19,UE,0,Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland,425,7,106,10560,10,453845,0
+10560_10_19_UE,10560_10_19,UE,0,Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland,465,7,11188,10560,19,5024279,0
+10700_10_19_28_A,10700_10_19_28,A,13,Rocky Mountain Alpine Dwarf-Shrubland,467,1,31,10700,19,50,62
+10700_10_19_28_B,10700_10_19_28,B,87,Rocky Mountain Alpine Dwarf-Shrubland,467,2,19,10700,19,50,38
+10700_10_19_28_C,10700_10_19_28,C,NA,Rocky Mountain Alpine Dwarf-Shrubland,NA,NA,NA,NA,NA,NA,NA
+10700_10_19_28_D,10700_10_19_28,D,NA,Rocky Mountain Alpine Dwarf-Shrubland,NA,NA,NA,NA,NA,NA,NA
+10700_10_19_28_E,10700_10_19_28,E,NA,Rocky Mountain Alpine Dwarf-Shrubland,NA,NA,NA,NA,NA,NA,NA
+10700_10_19_28_Agriculture,10700_10_19_28,Agriculture,0,Rocky Mountain Alpine Dwarf-Shrubland,NA,NA,NA,NA,NA,NA,NA
+10700_10_19_28_Developed,10700_10_19_28,Developed,0,Rocky Mountain Alpine Dwarf-Shrubland,NA,NA,NA,NA,NA,NA,NA
+10700_10_19_28_Water,10700_10_19_28,Water,0,Rocky Mountain Alpine Dwarf-Shrubland,NA,NA,NA,NA,NA,NA,NA
+10700_10_19_28_UN,10700_10_19_28,UN,0,Rocky Mountain Alpine Dwarf-Shrubland,NA,NA,NA,NA,NA,NA,NA
+10700_10_19_28_UE,10700_10_19_28,UE,0,Rocky Mountain Alpine Dwarf-Shrubland,NA,NA,NA,NA,NA,NA,NA
+10790_6_9_10_12_16_17_18_A,10790_6_9_10_12_16_17_18,A,13,Great Basin Xeric Mixed Sagebrush Shrubland,NA,NA,NA,NA,NA,NA,NA
+10790_6_9_10_12_16_17_18_B,10790_6_9_10_12_16_17_18,B,63,Great Basin Xeric Mixed Sagebrush Shrubland,429,2,1,10790,10,21,4
+10790_6_9_10_12_16_17_18_C,10790_6_9_10_12_16_17_18,C,16,Great Basin Xeric Mixed Sagebrush Shrubland,429,3,7,10790,10,21,33
+10790_6_9_10_12_16_17_18_D,10790_6_9_10_12_16_17_18,D,8,Great Basin Xeric Mixed Sagebrush Shrubland,429,4,4,10790,10,21,19
+10790_6_9_10_12_16_17_18_E,10790_6_9_10_12_16_17_18,E,NA,Great Basin Xeric Mixed Sagebrush Shrubland,NA,NA,NA,NA,NA,NA,NA
+10790_6_9_10_12_16_17_18_Agriculture,10790_6_9_10_12_16_17_18,Agriculture,0,Great Basin Xeric Mixed Sagebrush Shrubland,NA,NA,NA,NA,NA,NA,NA
+10790_6_9_10_12_16_17_18_Developed,10790_6_9_10_12_16_17_18,Developed,0,Great Basin Xeric Mixed Sagebrush Shrubland,NA,NA,NA,NA,NA,NA,NA
+10790_6_9_10_12_16_17_18_Water,10790_6_9_10_12_16_17_18,Water,0,Great Basin Xeric Mixed Sagebrush Shrubland,NA,NA,NA,NA,NA,NA,NA
+10790_6_9_10_12_16_17_18_UN,10790_6_9_10_12_16_17_18,UN,0,Great Basin Xeric Mixed Sagebrush Shrubland,429,6,9,10790,10,21,42
+10790_6_9_10_12_16_17_18_UE,10790_6_9_10_12_16_17_18,UE,0,Great Basin Xeric Mixed Sagebrush Shrubland,NA,NA,NA,NA,NA,NA,NA
+10800_10_19_A,10800_10_19,A,24,Inter-Mountain Basins Big Sagebrush Shrubland,468,1,3,10800,19,11,27
+10800_10_19_B,10800_10_19,B,32,Inter-Mountain Basins Big Sagebrush Shrubland,NA,NA,NA,NA,NA,NA,NA
+10800_10_19_C,10800_10_19,C,44,Inter-Mountain Basins Big Sagebrush Shrubland,468,3,4,10800,19,11,36
+10800_10_19_D,10800_10_19,D,NA,Inter-Mountain Basins Big Sagebrush Shrubland,NA,NA,NA,NA,NA,NA,NA
+10800_10_19_E,10800_10_19,E,NA,Inter-Mountain Basins Big Sagebrush Shrubland,NA,NA,NA,NA,NA,NA,NA
+10800_10_19_Agriculture,10800_10_19,Agriculture,0,Inter-Mountain Basins Big Sagebrush Shrubland,NA,NA,NA,NA,NA,NA,NA
+10800_10_19_Developed,10800_10_19,Developed,0,Inter-Mountain Basins Big Sagebrush Shrubland,NA,NA,NA,NA,NA,NA,NA
+10800_10_19_Water,10800_10_19,Water,0,Inter-Mountain Basins Big Sagebrush Shrubland,NA,NA,NA,NA,NA,NA,NA
+10800_10_19_UN,10800_10_19,UN,0,Inter-Mountain Basins Big Sagebrush Shrubland,NA,NA,NA,NA,NA,NA,NA
+10800_10_19_UE,10800_10_19,UE,0,Inter-Mountain Basins Big Sagebrush Shrubland,468,7,2,10800,19,11,18
+11060_10_19_A,11060_10_19,A,9,Northern Rocky Mountain Montane-Foothill Deciduous Shrubland,431,1,31,11060,10,284,10
+11060_10_19_A,11060_10_19,A,9,Northern Rocky Mountain Montane-Foothill Deciduous Shrubland,470,1,2670,11060,19,11151,23
+11060_10_19_B,11060_10_19,B,46,Northern Rocky Mountain Montane-Foothill Deciduous Shrubland,431,2,34,11060,10,284,11
+11060_10_19_B,11060_10_19,B,46,Northern Rocky Mountain Montane-Foothill Deciduous Shrubland,470,2,3291,11060,19,11151,29
+11060_10_19_C,11060_10_19,C,45,Northern Rocky Mountain Montane-Foothill Deciduous Shrubland,431,3,193,11060,10,284,67
+11060_10_19_C,11060_10_19,C,45,Northern Rocky Mountain Montane-Foothill Deciduous Shrubland,470,3,3970,11060,19,11151,35
+11060_10_19_D,11060_10_19,D,NA,Northern Rocky Mountain Montane-Foothill Deciduous Shrubland,NA,NA,NA,NA,NA,NA,NA
+11060_10_19_E,11060_10_19,E,NA,Northern Rocky Mountain Montane-Foothill Deciduous Shrubland,NA,NA,NA,NA,NA,NA,NA
+11060_10_19_Agriculture,11060_10_19,Agriculture,0,Northern Rocky Mountain Montane-Foothill Deciduous Shrubland,470,180,295,11060,19,11151,2
+11060_10_19_Developed,11060_10_19,Developed,0,Northern Rocky Mountain Montane-Foothill Deciduous Shrubland,431,120,9,11060,10,284,3
+11060_10_19_Developed,11060_10_19,Developed,0,Northern Rocky Mountain Montane-Foothill Deciduous Shrubland,470,120,196,11060,19,11151,1
+11060_10_19_Water,11060_10_19,Water,0,Northern Rocky Mountain Montane-Foothill Deciduous Shrubland,NA,NA,NA,NA,NA,NA,NA
+11060_10_19_UN,11060_10_19,UN,0,Northern Rocky Mountain Montane-Foothill Deciduous Shrubland,431,6,14,11060,10,284,4
+11060_10_19_UN,11060_10_19,UN,0,Northern Rocky Mountain Montane-Foothill Deciduous Shrubland,470,6,187,11060,19,11151,1
+11060_10_19_UE,11060_10_19,UE,0,Northern Rocky Mountain Montane-Foothill Deciduous Shrubland,431,7,3,11060,10,284,1
+11060_10_19_UE,11060_10_19,UE,0,Northern Rocky Mountain Montane-Foothill Deciduous Shrubland,470,7,116,11060,19,11151,1
+11150_10_19_A,11150_10_19,A,3,Inter-Mountain Basins Juniper Savanna,NA,NA,NA,NA,NA,NA,NA
+11150_10_19_B,11150_10_19,B,2,Inter-Mountain Basins Juniper Savanna,NA,NA,NA,NA,NA,NA,NA
+11150_10_19_C,11150_10_19,C,6,Inter-Mountain Basins Juniper Savanna,NA,NA,NA,NA,NA,NA,NA
+11150_10_19_D,11150_10_19,D,23,Inter-Mountain Basins Juniper Savanna,NA,NA,NA,NA,NA,NA,NA
+11150_10_19_E,11150_10_19,E,66,Inter-Mountain Basins Juniper Savanna,NA,NA,NA,NA,NA,NA,NA
+11150_10_19_Agriculture,11150_10_19,Agriculture,0,Inter-Mountain Basins Juniper Savanna,NA,NA,NA,NA,NA,NA,NA
+11150_10_19_Developed,11150_10_19,Developed,0,Inter-Mountain Basins Juniper Savanna,NA,NA,NA,NA,NA,NA,NA
+11150_10_19_Water,11150_10_19,Water,0,Inter-Mountain Basins Juniper Savanna,NA,NA,NA,NA,NA,NA,NA
+11150_10_19_UN,11150_10_19,UN,0,Inter-Mountain Basins Juniper Savanna,471,6,19,11150,19,19,100
+11150_10_19_UE,11150_10_19,UE,0,Inter-Mountain Basins Juniper Savanna,NA,NA,NA,NA,NA,NA,NA
+11230_10_18_A,11230_10_18,A,67,Columbia Plateau Steppe and Grassland,NA,NA,NA,NA,NA,NA,NA
+11230_10_18_B,11230_10_18,B,33,Columbia Plateau Steppe and Grassland,433,2,4,11230,10,4,100
+11230_10_18_C,11230_10_18,C,NA,Columbia Plateau Steppe and Grassland,NA,NA,NA,NA,NA,NA,NA
+11230_10_18_D,11230_10_18,D,NA,Columbia Plateau Steppe and Grassland,NA,NA,NA,NA,NA,NA,NA
+11230_10_18_E,11230_10_18,E,NA,Columbia Plateau Steppe and Grassland,NA,NA,NA,NA,NA,NA,NA
+11230_10_18_Agriculture,11230_10_18,Agriculture,0,Columbia Plateau Steppe and Grassland,NA,NA,NA,NA,NA,NA,NA
+11230_10_18_Developed,11230_10_18,Developed,0,Columbia Plateau Steppe and Grassland,NA,NA,NA,NA,NA,NA,NA
+11230_10_18_Water,11230_10_18,Water,0,Columbia Plateau Steppe and Grassland,NA,NA,NA,NA,NA,NA,NA
+11230_10_18_UN,11230_10_18,UN,0,Columbia Plateau Steppe and Grassland,NA,NA,NA,NA,NA,NA,NA
+11230_10_18_UE,11230_10_18,UE,0,Columbia Plateau Steppe and Grassland,NA,NA,NA,NA,NA,NA,NA
+11240_10_12_17_18_19_21_A,11240_10_12_17_18_19_21,A,11,Columbia Plateau Low Sagebrush Steppe,NA,NA,NA,NA,NA,NA,NA
+11240_10_12_17_18_19_21_B,11240_10_12_17_18_19_21,B,52,Columbia Plateau Low Sagebrush Steppe,NA,NA,NA,NA,NA,NA,NA
+11240_10_12_17_18_19_21_C,11240_10_12_17_18_19_21,C,37,Columbia Plateau Low Sagebrush Steppe,434,3,1,11240,10,11,9
+11240_10_12_17_18_19_21_D,11240_10_12_17_18_19_21,D,NA,Columbia Plateau Low Sagebrush Steppe,NA,NA,NA,NA,NA,NA,NA
+11240_10_12_17_18_19_21_E,11240_10_12_17_18_19_21,E,NA,Columbia Plateau Low Sagebrush Steppe,NA,NA,NA,NA,NA,NA,NA
+11240_10_12_17_18_19_21_Agriculture,11240_10_12_17_18_19_21,Agriculture,0,Columbia Plateau Low Sagebrush Steppe,NA,NA,NA,NA,NA,NA,NA
+11240_10_12_17_18_19_21_Developed,11240_10_12_17_18_19_21,Developed,0,Columbia Plateau Low Sagebrush Steppe,NA,NA,NA,NA,NA,NA,NA
+11240_10_12_17_18_19_21_Water,11240_10_12_17_18_19_21,Water,0,Columbia Plateau Low Sagebrush Steppe,NA,NA,NA,NA,NA,NA,NA
+11240_10_12_17_18_19_21_UN,11240_10_12_17_18_19_21,UN,0,Columbia Plateau Low Sagebrush Steppe,434,6,8,11240,10,11,72
+11240_10_12_17_18_19_21_UE,11240_10_12_17_18_19_21,UE,0,Columbia Plateau Low Sagebrush Steppe,434,7,2,11240,10,11,18
+11250_1_7_8_9_10_19_A,11250_1_7_8_9_10_19,A,18,Inter-Mountain Basins Big Sagebrush Steppe,435,1,1,11250,10,30,3
+11250_1_7_8_9_10_19_A,11250_1_7_8_9_10_19,A,18,Inter-Mountain Basins Big Sagebrush Steppe,473,1,24,11250,19,302,7
+11250_1_7_8_9_10_19_B,11250_1_7_8_9_10_19,B,26,Inter-Mountain Basins Big Sagebrush Steppe,473,2,1,11250,19,302,0
+11250_1_7_8_9_10_19_C,11250_1_7_8_9_10_19,C,22,Inter-Mountain Basins Big Sagebrush Steppe,435,3,4,11250,10,30,13
+11250_1_7_8_9_10_19_C,11250_1_7_8_9_10_19,C,22,Inter-Mountain Basins Big Sagebrush Steppe,473,3,37,11250,19,302,12
+11250_1_7_8_9_10_19_D,11250_1_7_8_9_10_19,D,34,Inter-Mountain Basins Big Sagebrush Steppe,435,4,4,11250,10,30,13
+11250_1_7_8_9_10_19_D,11250_1_7_8_9_10_19,D,34,Inter-Mountain Basins Big Sagebrush Steppe,473,4,71,11250,19,302,23
+11250_1_7_8_9_10_19_E,11250_1_7_8_9_10_19,E,NA,Inter-Mountain Basins Big Sagebrush Steppe,NA,NA,NA,NA,NA,NA,NA
+11250_1_7_8_9_10_19_Agriculture,11250_1_7_8_9_10_19,Agriculture,0,Inter-Mountain Basins Big Sagebrush Steppe,473,180,35,11250,19,302,11
+11250_1_7_8_9_10_19_Developed,11250_1_7_8_9_10_19,Developed,0,Inter-Mountain Basins Big Sagebrush Steppe,473,120,8,11250,19,302,2
+11250_1_7_8_9_10_19_Water,11250_1_7_8_9_10_19,Water,0,Inter-Mountain Basins Big Sagebrush Steppe,NA,NA,NA,NA,NA,NA,NA
+11250_1_7_8_9_10_19_UN,11250_1_7_8_9_10_19,UN,0,Inter-Mountain Basins Big Sagebrush Steppe,435,6,21,11250,10,30,70
+11250_1_7_8_9_10_19_UN,11250_1_7_8_9_10_19,UN,0,Inter-Mountain Basins Big Sagebrush Steppe,473,6,50,11250,19,302,16
+11250_1_7_8_9_10_19_UE,11250_1_7_8_9_10_19,UE,0,Inter-Mountain Basins Big Sagebrush Steppe,473,7,10,11250,19,302,3
+11260_1_7_8_9_10_19_A,11260_1_7_8_9_10_19,A,10,Inter-Mountain Basins Montane Sagebrush Steppe,436,1,21,11260,10,531,3
+11260_1_7_8_9_10_19_A,11260_1_7_8_9_10_19,A,10,Inter-Mountain Basins Montane Sagebrush Steppe,474,1,259,11260,19,3248,7
+11260_1_7_8_9_10_19_B,11260_1_7_8_9_10_19,B,23,Inter-Mountain Basins Montane Sagebrush Steppe,474,2,18,11260,19,3248,0
+11260_1_7_8_9_10_19_C,11260_1_7_8_9_10_19,C,20,Inter-Mountain Basins Montane Sagebrush Steppe,436,3,8,11260,10,531,1
+11260_1_7_8_9_10_19_C,11260_1_7_8_9_10_19,C,20,Inter-Mountain Basins Montane Sagebrush Steppe,474,3,138,11260,19,3248,4
+11260_1_7_8_9_10_19_D,11260_1_7_8_9_10_19,D,47,Inter-Mountain Basins Montane Sagebrush Steppe,436,4,72,11260,10,531,13
+11260_1_7_8_9_10_19_D,11260_1_7_8_9_10_19,D,47,Inter-Mountain Basins Montane Sagebrush Steppe,474,4,389,11260,19,3248,11
+11260_1_7_8_9_10_19_E,11260_1_7_8_9_10_19,E,NA,Inter-Mountain Basins Montane Sagebrush Steppe,NA,NA,NA,NA,NA,NA,NA
+11260_1_7_8_9_10_19_Agriculture,11260_1_7_8_9_10_19,Agriculture,0,Inter-Mountain Basins Montane Sagebrush Steppe,474,180,189,11260,19,3248,5
+11260_1_7_8_9_10_19_Developed,11260_1_7_8_9_10_19,Developed,0,Inter-Mountain Basins Montane Sagebrush Steppe,436,120,15,11260,10,531,2
+11260_1_7_8_9_10_19_Developed,11260_1_7_8_9_10_19,Developed,0,Inter-Mountain Basins Montane Sagebrush Steppe,474,120,373,11260,19,3248,11
+11260_1_7_8_9_10_19_Water,11260_1_7_8_9_10_19,Water,0,Inter-Mountain Basins Montane Sagebrush Steppe,NA,NA,NA,NA,NA,NA,NA
+11260_1_7_8_9_10_19_UN,11260_1_7_8_9_10_19,UN,0,Inter-Mountain Basins Montane Sagebrush Steppe,436,6,396,11260,10,531,74
+11260_1_7_8_9_10_19_UN,11260_1_7_8_9_10_19,UN,0,Inter-Mountain Basins Montane Sagebrush Steppe,474,6,1839,11260,19,3248,56
+11260_1_7_8_9_10_19_UE,11260_1_7_8_9_10_19,UE,0,Inter-Mountain Basins Montane Sagebrush Steppe,436,7,6,11260,10,531,1
+11260_1_7_8_9_10_19_UE,11260_1_7_8_9_10_19,UE,0,Inter-Mountain Basins Montane Sagebrush Steppe,474,7,43,11260,19,3248,1
+11390_10_19_A,11390_10_19,A,6,Northern Rocky Mountain Lower Montane-Foothill-Valley Grassland,475,1,36,11390,19,10448,0
+11390_10_19_B,11390_10_19,B,27,Northern Rocky Mountain Lower Montane-Foothill-Valley Grassland,440,2,3,11390,10,2531,0
+11390_10_19_B,11390_10_19,B,27,Northern Rocky Mountain Lower Montane-Foothill-Valley Grassland,475,2,65,11390,19,10448,0
+11390_10_19_C,11390_10_19,C,67,Northern Rocky Mountain Lower Montane-Foothill-Valley Grassland,440,3,649,11390,10,2531,25
+11390_10_19_C,11390_10_19,C,67,Northern Rocky Mountain Lower Montane-Foothill-Valley Grassland,475,3,3724,11390,19,10448,35
+11390_10_19_D,11390_10_19,D,NA,Northern Rocky Mountain Lower Montane-Foothill-Valley Grassland,NA,NA,NA,NA,NA,NA,NA
+11390_10_19_E,11390_10_19,E,NA,Northern Rocky Mountain Lower Montane-Foothill-Valley Grassland,NA,NA,NA,NA,NA,NA,NA
+11390_10_19_Agriculture,11390_10_19,Agriculture,0,Northern Rocky Mountain Lower Montane-Foothill-Valley Grassland,440,180,7,11390,10,2531,0
+11390_10_19_Agriculture,11390_10_19,Agriculture,0,Northern Rocky Mountain Lower Montane-Foothill-Valley Grassland,475,180,896,11390,19,10448,8
+11390_10_19_Developed,11390_10_19,Developed,0,Northern Rocky Mountain Lower Montane-Foothill-Valley Grassland,440,120,106,11390,10,2531,4
+11390_10_19_Developed,11390_10_19,Developed,0,Northern Rocky Mountain Lower Montane-Foothill-Valley Grassland,475,120,1578,11390,19,10448,15
+11390_10_19_Water,11390_10_19,Water,0,Northern Rocky Mountain Lower Montane-Foothill-Valley Grassland,NA,NA,NA,NA,NA,NA,NA
+11390_10_19_UN,11390_10_19,UN,0,Northern Rocky Mountain Lower Montane-Foothill-Valley Grassland,440,6,1716,11390,10,2531,67
+11390_10_19_UN,11390_10_19,UN,0,Northern Rocky Mountain Lower Montane-Foothill-Valley Grassland,475,6,3785,11390,19,10448,36
+11390_10_19_UE,11390_10_19,UE,0,Northern Rocky Mountain Lower Montane-Foothill-Valley Grassland,440,7,7,11390,10,2531,0
+11390_10_19_UE,11390_10_19,UE,0,Northern Rocky Mountain Lower Montane-Foothill-Valley Grassland,475,7,140,11390,19,10448,1
+11400_10_19_A,11400_10_19,A,3,Northern Rocky Mountain Subalpine-Upper Montane Grassland,476,1,15,11400,19,258,5
+11400_10_19_B,11400_10_19,B,97,Northern Rocky Mountain Subalpine-Upper Montane Grassland,441,2,4,11400,10,376,1
+11400_10_19_B,11400_10_19,B,97,Northern Rocky Mountain Subalpine-Upper Montane Grassland,476,2,26,11400,19,258,10
+11400_10_19_C,11400_10_19,C,NA,Northern Rocky Mountain Subalpine-Upper Montane Grassland,NA,NA,NA,NA,NA,NA,NA
+11400_10_19_D,11400_10_19,D,NA,Northern Rocky Mountain Subalpine-Upper Montane Grassland,NA,NA,NA,NA,NA,NA,NA
+11400_10_19_E,11400_10_19,E,NA,Northern Rocky Mountain Subalpine-Upper Montane Grassland,NA,NA,NA,NA,NA,NA,NA
+11400_10_19_Agriculture,11400_10_19,Agriculture,0,Northern Rocky Mountain Subalpine-Upper Montane Grassland,476,180,33,11400,19,258,12
+11400_10_19_Developed,11400_10_19,Developed,0,Northern Rocky Mountain Subalpine-Upper Montane Grassland,476,120,1,11400,19,258,0
+11400_10_19_Water,11400_10_19,Water,0,Northern Rocky Mountain Subalpine-Upper Montane Grassland,NA,NA,NA,NA,NA,NA,NA
+11400_10_19_UN,11400_10_19,UN,0,Northern Rocky Mountain Subalpine-Upper Montane Grassland,441,6,372,11400,10,376,98
+11400_10_19_UN,11400_10_19,UN,0,Northern Rocky Mountain Subalpine-Upper Montane Grassland,476,6,129,11400,19,258,50
+11400_10_19_UE,11400_10_19,UE,0,Northern Rocky Mountain Subalpine-Upper Montane Grassland,476,7,3,11400,19,258,1
+11430_9_19_21_28_A,11430_9_19_21_28,A,5,Rocky Mountain Alpine Fell-Field,NA,NA,NA,NA,NA,NA,NA
+11430_9_19_21_28_B,11430_9_19_21_28,B,95,Rocky Mountain Alpine Fell-Field,477,2,2,11430,19,2,100
+11430_9_19_21_28_C,11430_9_19_21_28,C,NA,Rocky Mountain Alpine Fell-Field,NA,NA,NA,NA,NA,NA,NA
+11430_9_19_21_28_D,11430_9_19_21_28,D,NA,Rocky Mountain Alpine Fell-Field,NA,NA,NA,NA,NA,NA,NA
+11430_9_19_21_28_E,11430_9_19_21_28,E,NA,Rocky Mountain Alpine Fell-Field,NA,NA,NA,NA,NA,NA,NA
+11430_9_19_21_28_Agriculture,11430_9_19_21_28,Agriculture,0,Rocky Mountain Alpine Fell-Field,NA,NA,NA,NA,NA,NA,NA
+11430_9_19_21_28_Developed,11430_9_19_21_28,Developed,0,Rocky Mountain Alpine Fell-Field,NA,NA,NA,NA,NA,NA,NA
+11430_9_19_21_28_Water,11430_9_19_21_28,Water,0,Rocky Mountain Alpine Fell-Field,NA,NA,NA,NA,NA,NA,NA
+11430_9_19_21_28_UN,11430_9_19_21_28,UN,0,Rocky Mountain Alpine Fell-Field,NA,NA,NA,NA,NA,NA,NA
+11430_9_19_21_28_UE,11430_9_19_21_28,UE,0,Rocky Mountain Alpine Fell-Field,NA,NA,NA,NA,NA,NA,NA
+11450_9_10_19_A,11450_9_10_19,A,5,Rocky Mountain Subalpine-Montane Mesic Meadow,443,1,1,11450,10,93,1
+11450_9_10_19_A,11450_9_10_19,A,5,Rocky Mountain Subalpine-Montane Mesic Meadow,479,1,1971,11450,19,7598,25
+11450_9_10_19_B,11450_9_10_19,B,47,Rocky Mountain Subalpine-Montane Mesic Meadow,479,2,9,11450,19,7598,0
+11450_9_10_19_C,11450_9_10_19,C,48,Rocky Mountain Subalpine-Montane Mesic Meadow,443,3,90,11450,10,93,96
+11450_9_10_19_C,11450_9_10_19,C,48,Rocky Mountain Subalpine-Montane Mesic Meadow,479,3,5213,11450,19,7598,68
+11450_9_10_19_D,11450_9_10_19,D,NA,Rocky Mountain Subalpine-Montane Mesic Meadow,NA,NA,NA,NA,NA,NA,NA
+11450_9_10_19_E,11450_9_10_19,E,NA,Rocky Mountain Subalpine-Montane Mesic Meadow,NA,NA,NA,NA,NA,NA,NA
+11450_9_10_19_Agriculture,11450_9_10_19,Agriculture,0,Rocky Mountain Subalpine-Montane Mesic Meadow,479,180,146,11450,19,7598,1
+11450_9_10_19_Developed,11450_9_10_19,Developed,0,Rocky Mountain Subalpine-Montane Mesic Meadow,479,120,9,11450,19,7598,0
+11450_9_10_19_Water,11450_9_10_19,Water,0,Rocky Mountain Subalpine-Montane Mesic Meadow,NA,NA,NA,NA,NA,NA,NA
+11450_9_10_19_UN,11450_9_10_19,UN,0,Rocky Mountain Subalpine-Montane Mesic Meadow,443,6,2,11450,10,93,2
+11450_9_10_19_UN,11450_9_10_19,UN,0,Rocky Mountain Subalpine-Montane Mesic Meadow,479,6,69,11450,19,7598,0
+11450_9_10_19_UE,11450_9_10_19,UE,0,Rocky Mountain Subalpine-Montane Mesic Meadow,479,7,181,11450,19,7598,2
+11540_10_19_A,11540_10_19,A,48,Inter-Mountain Basins Montane Riparian Systems,NA,NA,NA,NA,NA,NA,NA
+11540_10_19_B,11540_10_19,B,43,Inter-Mountain Basins Montane Riparian Systems,NA,NA,NA,NA,NA,NA,NA
+11540_10_19_C,11540_10_19,C,9,Inter-Mountain Basins Montane Riparian Systems,NA,NA,NA,NA,NA,NA,NA
+11540_10_19_D,11540_10_19,D,NA,Inter-Mountain Basins Montane Riparian Systems,NA,NA,NA,NA,NA,NA,NA
+11540_10_19_E,11540_10_19,E,NA,Inter-Mountain Basins Montane Riparian Systems,NA,NA,NA,NA,NA,NA,NA
+11540_10_19_Agriculture,11540_10_19,Agriculture,0,Inter-Mountain Basins Montane Riparian Systems,481,180,4,11540,19,8,50
+11540_10_19_Developed,11540_10_19,Developed,0,Inter-Mountain Basins Montane Riparian Systems,481,120,4,11540,19,8,50
+11540_10_19_Water,11540_10_19,Water,0,Inter-Mountain Basins Montane Riparian Systems,NA,NA,NA,NA,NA,NA,NA
+11540_10_19_UN,11540_10_19,UN,0,Inter-Mountain Basins Montane Riparian Systems,NA,NA,NA,NA,NA,NA,NA
+11540_10_19_UE,11540_10_19,UE,0,Inter-Mountain Basins Montane Riparian Systems,NA,NA,NA,NA,NA,NA,NA
+11590_10_19_A,11590_10_19,A,28,Rocky Mountain Montane Riparian Systems,446,1,14630,11590,10,98742,14
+11590_10_19_A,11590_10_19,A,28,Rocky Mountain Montane Riparian Systems,482,1,84293,11590,19,569568,14
+11590_10_19_B,11590_10_19,B,52,Rocky Mountain Montane Riparian Systems,446,2,0,0,0,0,0
+11590_10_19_B,11590_10_19,B,52,Rocky Mountain Montane Riparian Systems,482,2,0,0,0,0,0
+11590_10_19_C,11590_10_19,C,20,Rocky Mountain Montane Riparian Systems,446,3,80863,11590,10,98742,81
+11590_10_19_C,11590_10_19,C,20,Rocky Mountain Montane Riparian Systems,482,3,447265,11590,19,569568,78
+11590_10_19_D,11590_10_19,D,NA,Rocky Mountain Montane Riparian Systems,NA,NA,NA,NA,NA,NA,NA
+11590_10_19_E,11590_10_19,E,NA,Rocky Mountain Montane Riparian Systems,NA,NA,NA,NA,NA,NA,NA
+11590_10_19_Agriculture,11590_10_19,Agriculture,0,Rocky Mountain Montane Riparian Systems,446,180,2107,11590,10,98742,2
+11590_10_19_Agriculture,11590_10_19,Agriculture,0,Rocky Mountain Montane Riparian Systems,482,180,22879,11590,19,569568,4
+11590_10_19_Developed,11590_10_19,Developed,0,Rocky Mountain Montane Riparian Systems,446,120,757,11590,10,98742,0
+11590_10_19_Developed,11590_10_19,Developed,0,Rocky Mountain Montane Riparian Systems,482,120,9090,11590,19,569568,1
+11590_10_19_Water,11590_10_19,Water,0,Rocky Mountain Montane Riparian Systems,NA,NA,NA,NA,NA,NA,NA
+11590_10_19_UN,11590_10_19,UN,0,Rocky Mountain Montane Riparian Systems,NA,NA,NA,NA,NA,NA,NA
+11590_10_19_UE,11590_10_19,UE,0,Rocky Mountain Montane Riparian Systems,446,7,313,11590,10,98742,0
+11590_10_19_UE,11590_10_19,UE,0,Rocky Mountain Montane Riparian Systems,482,7,4139,11590,19,569568,0
+11600_10_19_A,11600_10_19,A,49,Rocky Mountain Subalpine/Upper Montane Riparian Systems,447,1,1474,11600,10,4461,33
+11600_10_19_A,11600_10_19,A,49,Rocky Mountain Subalpine/Upper Montane Riparian Systems,483,1,7802,11600,19,25701,30
+11600_10_19_B,11600_10_19,B,51,Rocky Mountain Subalpine/Upper Montane Riparian Systems,447,2,2915,11600,10,4461,65
+11600_10_19_B,11600_10_19,B,51,Rocky Mountain Subalpine/Upper Montane Riparian Systems,483,2,16917,11600,19,25701,65
+11600_10_19_C,11600_10_19,C,NA,Rocky Mountain Subalpine/Upper Montane Riparian Systems,NA,NA,NA,NA,NA,NA,NA
+11600_10_19_D,11600_10_19,D,NA,Rocky Mountain Subalpine/Upper Montane Riparian Systems,NA,NA,NA,NA,NA,NA,NA
+11600_10_19_E,11600_10_19,E,NA,Rocky Mountain Subalpine/Upper Montane Riparian Systems,NA,NA,NA,NA,NA,NA,NA
+11600_10_19_Agriculture,11600_10_19,Agriculture,0,Rocky Mountain Subalpine/Upper Montane Riparian Systems,447,180,25,11600,10,4461,0
+11600_10_19_Agriculture,11600_10_19,Agriculture,0,Rocky Mountain Subalpine/Upper Montane Riparian Systems,483,180,313,11600,19,25701,1
+11600_10_19_Developed,11600_10_19,Developed,0,Rocky Mountain Subalpine/Upper Montane Riparian Systems,447,120,24,11600,10,4461,0
+11600_10_19_Developed,11600_10_19,Developed,0,Rocky Mountain Subalpine/Upper Montane Riparian Systems,483,120,1,11600,19,25701,0
+11600_10_19_Water,11600_10_19,Water,0,Rocky Mountain Subalpine/Upper Montane Riparian Systems,NA,NA,NA,NA,NA,NA,NA
+11600_10_19_UN,11600_10_19,UN,0,Rocky Mountain Subalpine/Upper Montane Riparian Systems,NA,NA,NA,NA,NA,NA,NA
+11600_10_19_UE,11600_10_19,UE,0,Rocky Mountain Subalpine/Upper Montane Riparian Systems,447,7,22,11600,10,4461,0
+11600_10_19_UE,11600_10_19,UE,0,Rocky Mountain Subalpine/Upper Montane Riparian Systems,483,7,26,11600,19,25701,0
+11610_9_10_19_A,11610_9_10_19,A,10,Northern Rocky Mountain Conifer Swamp,448,1,939,11610,10,6821,13
+11610_9_10_19_A,11610_9_10_19,A,10,Northern Rocky Mountain Conifer Swamp,484,1,3703,11610,19,28747,12
+11610_9_10_19_B,11610_9_10_19,B,23,Northern Rocky Mountain Conifer Swamp,448,2,5851,11610,10,6821,85
+11610_9_10_19_B,11610_9_10_19,B,23,Northern Rocky Mountain Conifer Swamp,484,2,23786,11610,19,28747,82
+11610_9_10_19_C,11610_9_10_19,C,67,Northern Rocky Mountain Conifer Swamp,484,3,88,11610,19,28747,0
+11610_9_10_19_D,11610_9_10_19,D,NA,Northern Rocky Mountain Conifer Swamp,NA,NA,NA,NA,NA,NA,NA
+11610_9_10_19_E,11610_9_10_19,E,NA,Northern Rocky Mountain Conifer Swamp,NA,NA,NA,NA,NA,NA,NA
+11610_9_10_19_Agriculture,11610_9_10_19,Agriculture,0,Northern Rocky Mountain Conifer Swamp,448,180,12,11610,10,6821,0
+11610_9_10_19_Agriculture,11610_9_10_19,Agriculture,0,Northern Rocky Mountain Conifer Swamp,484,180,157,11610,19,28747,0
+11610_9_10_19_Developed,11610_9_10_19,Developed,0,Northern Rocky Mountain Conifer Swamp,448,120,14,11610,10,6821,0
+11610_9_10_19_Developed,11610_9_10_19,Developed,0,Northern Rocky Mountain Conifer Swamp,484,120,827,11610,19,28747,2
+11610_9_10_19_Water,11610_9_10_19,Water,0,Northern Rocky Mountain Conifer Swamp,NA,NA,NA,NA,NA,NA,NA
+11610_9_10_19_UN,11610_9_10_19,UN,0,Northern Rocky Mountain Conifer Swamp,NA,NA,NA,NA,NA,NA,NA
+11610_9_10_19_UE,11610_9_10_19,UE,0,Northern Rocky Mountain Conifer Swamp,448,7,1,11610,10,6821,0
+11610_9_10_19_UE,11610_9_10_19,UE,0,Northern Rocky Mountain Conifer Swamp,484,7,134,11610,19,28747,0
+11660_9_10_19_A,11660_9_10_19,A,20,Middle Rocky Mountain Montane Douglas-fir Forest and Woodland,449,1,5775,11660,10,37879,15
+11660_9_10_19_A,11660_9_10_19,A,20,Middle Rocky Mountain Montane Douglas-fir Forest and Woodland,485,1,25564,11660,19,118323,21
+11660_9_10_19_B,11660_9_10_19,B,17,Middle Rocky Mountain Montane Douglas-fir Forest and Woodland,449,2,35,11660,10,37879,0
+11660_9_10_19_B,11660_9_10_19,B,17,Middle Rocky Mountain Montane Douglas-fir Forest and Woodland,485,2,16,11660,19,118323,0
+11660_9_10_19_C,11660_9_10_19,C,34,Middle Rocky Mountain Montane Douglas-fir Forest and Woodland,449,3,227,11660,10,37879,0
+11660_9_10_19_C,11660_9_10_19,C,34,Middle Rocky Mountain Montane Douglas-fir Forest and Woodland,485,3,513,11660,19,118323,0
+11660_9_10_19_D,11660_9_10_19,D,20,Middle Rocky Mountain Montane Douglas-fir Forest and Woodland,449,4,10787,11660,10,37879,28
+11660_9_10_19_D,11660_9_10_19,D,20,Middle Rocky Mountain Montane Douglas-fir Forest and Woodland,485,4,22550,11660,19,118323,19
+11660_9_10_19_E,11660_9_10_19,E,9,Middle Rocky Mountain Montane Douglas-fir Forest and Woodland,449,5,20851,11660,10,37879,55
+11660_9_10_19_E,11660_9_10_19,E,9,Middle Rocky Mountain Montane Douglas-fir Forest and Woodland,485,5,66800,11660,19,118323,56
+11660_9_10_19_Agriculture,11660_9_10_19,Agriculture,0,Middle Rocky Mountain Montane Douglas-fir Forest and Woodland,449,180,6,11660,10,37879,0
+11660_9_10_19_Agriculture,11660_9_10_19,Agriculture,0,Middle Rocky Mountain Montane Douglas-fir Forest and Woodland,485,180,27,11660,19,118323,0
+11660_9_10_19_Developed,11660_9_10_19,Developed,0,Middle Rocky Mountain Montane Douglas-fir Forest and Woodland,449,120,153,11660,10,37879,0
+11660_9_10_19_Developed,11660_9_10_19,Developed,0,Middle Rocky Mountain Montane Douglas-fir Forest and Woodland,485,120,29,11660,19,118323,0
+11660_9_10_19_Water,11660_9_10_19,Water,0,Middle Rocky Mountain Montane Douglas-fir Forest and Woodland,NA,NA,NA,NA,NA,NA,NA
+11660_9_10_19_UN,11660_9_10_19,UN,0,Middle Rocky Mountain Montane Douglas-fir Forest and Woodland,NA,NA,NA,NA,NA,NA,NA
+11660_9_10_19_UE,11660_9_10_19,UE,0,Middle Rocky Mountain Montane Douglas-fir Forest and Woodland,449,7,10,11660,10,37879,0
+11660_9_10_19_UE,11660_9_10_19,UE,0,Middle Rocky Mountain Montane Douglas-fir Forest and Woodland,485,7,1873,11660,19,118323,1
+11662_19_A,11662_19,A,10,Middle Rocky Mountain Montane Douglas-fir Forest and Woodland - Fire-maintained Savanna,486,1,92,11662,19,352,26
+11662_19_B,11662_19,B,2,Middle Rocky Mountain Montane Douglas-fir Forest and Woodland - Fire-maintained Savanna,486,2,163,11662,19,352,46
+11662_19_C,11662_19,C,6,Middle Rocky Mountain Montane Douglas-fir Forest and Woodland - Fire-maintained Savanna,486,3,24,11662,19,352,6
+11662_19_D,11662_19,D,82,Middle Rocky Mountain Montane Douglas-fir Forest and Woodland - Fire-maintained Savanna,486,4,38,11662,19,352,10
+11662_19_E,11662_19,E,NA,Middle Rocky Mountain Montane Douglas-fir Forest and Woodland - Fire-maintained Savanna,NA,NA,NA,NA,NA,NA,NA
+11662_19_Agriculture,11662_19,Agriculture,0,Middle Rocky Mountain Montane Douglas-fir Forest and Woodland - Fire-maintained Savanna,NA,NA,NA,NA,NA,NA,NA
+11662_19_Developed,11662_19,Developed,0,Middle Rocky Mountain Montane Douglas-fir Forest and Woodland - Fire-maintained Savanna,NA,NA,NA,NA,NA,NA,NA
+11662_19_Water,11662_19,Water,0,Middle Rocky Mountain Montane Douglas-fir Forest and Woodland - Fire-maintained Savanna,NA,NA,NA,NA,NA,NA,NA
+11662_19_UN,11662_19,UN,0,Middle Rocky Mountain Montane Douglas-fir Forest and Woodland - Fire-maintained Savanna,NA,NA,NA,NA,NA,NA,NA
+11662_19_UE,11662_19,UE,0,Middle Rocky Mountain Montane Douglas-fir Forest and Woodland - Fire-maintained Savanna,486,7,3,11662,19,352,0
+11670_10_19_A,11670_10_19,A,12,Rocky Mountain Poor-Site Lodgepole Pine Forest,487,1,323,11670,19,653,49
+11670_10_19_B,11670_10_19,B,24,Rocky Mountain Poor-Site Lodgepole Pine Forest,NA,NA,NA,NA,NA,NA,NA
+11670_10_19_C,11670_10_19,C,14,Rocky Mountain Poor-Site Lodgepole Pine Forest,487,3,229,11670,19,653,35
+11670_10_19_D,11670_10_19,D,50,Rocky Mountain Poor-Site Lodgepole Pine Forest,487,4,95,11670,19,653,14
+11670_10_19_E,11670_10_19,E,NA,Rocky Mountain Poor-Site Lodgepole Pine Forest,NA,NA,NA,NA,NA,NA,NA
+11670_10_19_Agriculture,11670_10_19,Agriculture,0,Rocky Mountain Poor-Site Lodgepole Pine Forest,NA,NA,NA,NA,NA,NA,NA
+11670_10_19_Developed,11670_10_19,Developed,0,Rocky Mountain Poor-Site Lodgepole Pine Forest,NA,NA,NA,NA,NA,NA,NA
+11670_10_19_Water,11670_10_19,Water,0,Rocky Mountain Poor-Site Lodgepole Pine Forest,NA,NA,NA,NA,NA,NA,NA
+11670_10_19_UN,11670_10_19,UN,0,Rocky Mountain Poor-Site Lodgepole Pine Forest,NA,NA,NA,NA,NA,NA,NA
+11670_10_19_UE,11670_10_19,UE,0,Rocky Mountain Poor-Site Lodgepole Pine Forest,NA,NA,NA,NA,NA,NA,NA
