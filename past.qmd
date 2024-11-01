@@ -24,6 +24,8 @@ Scroll down to explore the "historical disturbances per ecosystem" using the int
 
 ![](images/bps.jpg){width=100%}
 <br>
+<br>
+***
 
 ```{r bps chart, message=FALSE, warning=FALSE, echo=FALSE, fig.width=10, fig.height=12}
 library(tidyverse)
