@@ -73,6 +73,7 @@ quickmap
 * Review is ongoing
 * To share this web app, simply share the hyperlink
 * Toggle between dark and light display of this site in the upper right corner of the page
+* Learn more about LANDFIRE and The Nature Conservancy [here](about.qmd){target="blank}.   
 
 
 
